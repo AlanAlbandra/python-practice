@@ -1,5 +1,6 @@
 # Gestor de Decisión para concesión de Crédito
 
+
 # 1. Definición de Variables
 nombre=input("ingrese su nombre con apellidos:")
 edad=int(input("ingrese su edad:"))
